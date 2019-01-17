@@ -1,0 +1,1 @@
+./switch local_port=10088 local_link=long remote_link=short remote_ip=145.80.29.29 remote_port=41527 head_len=0 msg_type=amp msg_prtl=http http_url=/kmc/kdc/fs.do logfile=/home/hn/run/log/switch_http.log&
